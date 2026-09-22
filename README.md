@@ -1,5 +1,11 @@
 # RETAIL POS SYSTEM - FRONTEND DOCUMENTATION
 
+---
+<img width="1917" height="905" alt="image" src="https://github.com/user-attachments/assets/e80d5673-943e-4c1c-8d3e-0d4b67ebbece" />
+
+
+---
+
 ## 🎨 **PROJECT OVERVIEW**
 
 This is a **COMPLETE FRONTEND** interface for the Retail POS System. It provides a professional, clean UI for visualizing and demonstrating the Point of Sale operations.
