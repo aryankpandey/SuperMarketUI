@@ -1,7 +1,7 @@
 # RETAIL POS SYSTEM - FRONTEND DOCUMENTATION
 
 ---
-<img width="1917" height="905" alt="image" src="https://github.com/user-attachments/assets/e80d5673-943e-4c1c-8d3e-0d4b67ebbece" />
+<img width="517" height="305" alt="image" src="https://github.com/user-attachments/assets/e80d5673-943e-4c1c-8d3e-0d4b67ebbece" />
 
 
 ---
